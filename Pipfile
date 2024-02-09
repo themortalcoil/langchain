@@ -9,6 +9,7 @@ beautifulsoup4 = "*"
 langchain-community = "*"
 faiss-cpu = "*"
 langchain = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
