@@ -1,0 +1,32 @@
+# Ignore .git directory
+.git
+
+# Ignore .vscode directory
+.vscode
+
+# Ignore .idea directory
+.idea
+
+# Ignore .env file
+.env
+
+# Ignore .DS_Store file
+.DS_Store
+
+# Ignore .gitignore file
+.gitignore
+
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore .dockerignore file
+.dockerignore
+
+# Ignore all markdown files
+*.md
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore __pycache__ directories
+__pycache__

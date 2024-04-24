@@ -9,7 +9,10 @@ beautifulsoup4 = "*"
 langchain-community = "*"
 faiss-cpu = "*"
 langchain = "*"
-python-dotenv = "*"
+tavily-python = "*"
+langchainhub = "*"
+langserve = {extras = ["all"], version = "*"}
+pypdf = "*"
 
 [dev-packages]
 ipykernel = "*"
